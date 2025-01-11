@@ -1,0 +1,12 @@
+out/
+build
+cmake-build-debug/
+.cache/
+
+compile_commands.json
+.envrc
+.idea/
+.clangd
+*~
+#*
+
